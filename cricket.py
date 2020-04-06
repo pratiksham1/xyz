@@ -1,5 +1,5 @@
 # Store input numbers
-num1 = input('Enter first number: 
+num1 = 17
 num2 = 18
 
 # Add two numbers
